@@ -1,0 +1,135 @@
+body {
+  font-family: 'Open Sans', sans-serif;
+  margin: 0;
+  padding: 0;
+}
+header {
+  background-image: url("../images/header_bg.jpg");
+  background-color: #cccccc;
+  background-size: cover;
+  height:700px;
+  background-repeat: no-repeat;
+  background-position: top center;
+}
+#white-logo {
+  color: white;
+  font-size: 24px;
+  font-weight: 800;
+  padding-top: 50px;
+  padding-left: 10%;  
+}
+#tag {
+  color: white;
+  font-size: 24px;
+  font-weight: 600;
+  text-align: center;
+  padding-top: 100px;  
+}
+#yellow-button {
+  box-shadow: 3px 3px 1px #575757;
+  background-color: #f9e42e;
+  padding: 10px 10px 10px 10px;
+  border-radius: 5px;
+  font-size:14px;
+  font-weight:800;
+  text-align:center;
+  margin-top:70px;
+  margin-left:44%;
+  margin-right:44%;
+}
+#benefits {
+  background-color:#f0efef;
+  height:375px;
+}
+h1 {
+  font-size: 20px;
+  font-weight: 600;
+  color: #033048;
+  padding-top: 6%;
+  padding-left: 7%;
+  margin: 0;
+}
+#benefits p {
+  font-size: 13px;
+  font-weight: 300;
+  padding-left: 8%;
+  padding-top: 2%;
+}
+ul {
+  color: #606161;
+  font-size: 13px;
+  font-weight: 300;
+  padding-left: 12%;
+  padding-top: 2%;
+}
+li {
+  padding-top: 1%;
+ } 
+li:nth-child(even) {
+    font-weight: bold;   
+}
+#testimonial {
+  background-image: url(../images/testimonial_bg.jpg);
+  background-color: #cccccc;
+  background-size: cover;
+  height: 394px;
+  background-repeat: no-repeat;
+  font-size: 18px;
+}
+#testimonial p:first-child {
+  margin: 0;
+  padding: 10% 15% 0% 15%;
+  font-weight: 300;
+  font-style: italic;
+  color: #606161;
+  text-align: center;
+}
+#testimonial p:nth-child(2) {
+  font-weight: 600;
+  color: white;
+  text-align: center;
+}
+#yellow {
+  background-color: #f9e42e;
+  height: 80px;
+  padding-top: 3%;
+}
+#blue-button {
+  color: white;
+  font-size: 12px;
+  font-weight: 800;
+  text-align: center;
+  border-radius: 5px;
+  background-color: #033048;
+  margin-left: 42%;
+  margin-right: 42%;
+  padding-top: 1%;
+  padding-bottom: 1%;
+}
+footer {
+  background-color: #121212;
+  height: 394px;
+}
+#yellow-logo {
+  color: #f9e42e;
+  text-align: center;
+  font-size: 24px;
+  font-weight: 800;
+  padding-top: 8%;
+  padding-bottom: 6%;
+}
+#twitter {
+  margin-left: 44%;
+  float: left;
+}
+#facebook {
+  margin-right: 44%;
+  float: right;
+}
+#copyright {
+  font-size: 9px;
+  font-weight: 600;
+  color: white;
+  text-align: center;
+  padding-top: 11%;
+}
